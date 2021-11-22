@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fmatic.js\u002F_nuxt\u002Fstatic\u002F1636713309",layout:"default",error:a,serverRendered:true,routePath:"\u002Fv3\u002Fdocs\u002Fplasma\u002Ferc721\u002Ftransfer",config:{_app:{basePath:"\u002Fmatic.js\u002F",assetsPath:"\u002Fmatic.js\u002F_nuxt\u002F",cdnURL:a}}}}(null));
